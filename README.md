@@ -1,1 +1,1 @@
-# smit-clone
+# This repository is for smit clone website
